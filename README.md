@@ -1,121 +1,105 @@
-<!-- ============================================================
-     KARUNIYA PREMNATH — GitHub Profile README
-     ============================================================ -->
+<!-- ===================== INTRO ===================== -->
+<h1 align="center">Hi 👋, I'm Karuniya Premnath</h1>
 
+<!-- ===================== TYPING ANIMATION BANNER ===================== -->
+<div align="center">
+  <a href="https://github.com/karunprem45">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=6C8CFF&center=true&vCenter=true&width=750&lines=MS+Data+Science+%40+Northeastern;Machine+Learning+%C2%B7+MLOps+%C2%B7+Explainable+AI;I+build+ML+that+ships+%E2%80%94+not+just+notebooks;Open+to+TA+%2F+RA+%2B+Data+Science+Co-op" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- ===================== VISITOR BADGE ===================== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=karunprem45&label=Profile%20views&color=6c8cff&style=flat" alt="profile views" />
+</div>
+
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+## 🧑‍💻 About Me
+
+- 🎓 I'm an **MS Data Science** student at **Northeastern University, Boston** (B.Tech in AI & Data Science).
+- 🔭 I'm currently building **[SkillRadar](https://github.com/karunprem45/skillradar)** — a live US job-market intelligence platform (automated ML pipeline + deployed dashboard).
+- 🌱 I love **end-to-end machine learning** — from data pipelines to explainable models to deployment.
+- 🧠 Interests: **MLOps, explainable AI, applied ML for real-world problems.**
+- 👩‍🏫 Seeking **Teaching Assistant / Research Assistant** roles and **Data Science / ML co-ops.**
+- 📫 Reach me at **premnath.k@northeastern.edu**
+
+<!-- ===================== PORTFOLIO + LINKEDIN BADGES ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C8CFF&center=true&vCenter=true&width=680&lines=_Karuniya+Premnath;MS+Data+Science+%40+Northeastern+%7C+ML+%2B+MLOps;I+build+ML+that+ships+%E2%80%94+not+just+notebooks;Open+to+TA+%2F+RA+%2B+Data+Science+Co-op)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karuniya-premnath)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6C8CFF?style=flat-square&logo=googlechrome&logoColor=white)](https://karunprem45.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:premnath.k@northeastern.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C8CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karunprem45.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karuniya-premnath)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premnath.k@northeastern.edu)
 
 </div>
 
 ---
 
-```yaml
-# karuniya.yml
-name:        Karuniya Premnath
-degree:      M.S. Data Science
-university:  Northeastern University, Boston
-undergrad:   B.Tech in AI & Data Science (First Class)
-focus:       [ Machine Learning, MLOps, Explainable AI ]
-building:    SkillRadar  # live US job-market intelligence platform
-status:      Open to Teaching Assistant / Research Assistant + Data Science / ML Co-op
-```
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,sqlite,tensorflow,sklearn,pytorch,pandas,firebase,git,github,vscode&perline=6" alt="tech stack" />
+</div>
+
+**Machine Learning** · scikit-learn · XGBoost · TensorFlow/Keras · SHAP · K-Means/UMAP · CNNs · LSTM
+**Data / MLOps** · pandas · NumPy · SQLAlchemy · GitHub Actions (CI/CD) · REST APIs · Streamlit · Firebase
+**Visualization** · Matplotlib · Seaborn · Plotly · Tableau
 
 ---
 
-### `// projects`
+<!-- ===================== CURRENT PROJECTS ===================== -->
+## 🚀 Current Projects
 
-**`skillradar/`** — *Self-updating US job-market intelligence platform* &nbsp;`LIVE`
-
-An end-to-end automated pipeline ingesting **1,300+ US postings from 4 job-board APIs** on a 6-hour GitHub Actions cron. Rule-based skill extraction validated against a hand-labeled gold set (**F1 0.995**), a salary-prediction model (**14% MAE reduction**) with interpretable per-skill premiums, and KMeans role archetypes that exposed a **$77K analyst-to-ML pay gap**. Deployed as a 4-tab Streamlit dashboard with daily automated retraining.
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[SkillRadar](https://github.com/karunprem45/skillradar)** `LIVE` | Self-updating US job-market intelligence — 1,300+ postings from 4 APIs on a 6-hour cron, skill extraction (F1 0.995), salary model (14% MAE ↓), $77K pay-gap insight, deployed Streamlit dashboard | `Python` `XGBoost` `GitHub Actions` `Streamlit` |
+| **[GYTS Policy Study](https://github.com/karunprem45/gyts-policy-study)** | Multi-country youth-tobacco analysis across a 522-country-year panel — XGBoost + SHAP + K-Means/UMAP; policy simulation (−7.34 pts) | `Python` `XGBoost` `SHAP` `UMAP` |
+| **[AgriViz](https://github.com/karunprem45/AgriViz)** · [Live Demo](https://karunprem45.github.io/AgriViz/) | Farmer-readable agri-AI — CNN disease detection + XGBoost crop recommendation (22 crops) + soil analysis, color-coded visuals | `TensorFlow` `XGBoost` `JavaScript` `Firebase` |
 
 ---
 
-**`gyts-policy-study/`** — *Youth tobacco prediction & policy analysis · multi-country ML*
+<!-- ===================== GITHUB STATS CARDS ===================== -->
+## 📊 GitHub Stats
 
-Integrated GYTS + WHO MPOWER + World Bank data into a **522-country-year panel**. A regularized **XGBoost** model with **SHAP** explainability and K-Means/UMAP clustering identified peer exposure and secondhand smoke as top predictors — and showed policy upgrades could cut youth prevalence by up to **7.34 points** in high-risk countries.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karunprem45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunprem45&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</div>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-37474f?style=flat-square)
-![UMAP](https://img.shields.io/badge/UMAP-1565c0?style=flat-square)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunprem45&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
 
----
-
-**`smart-agri-app/`** — *Visualization-driven decision support for smart agriculture (Android)*
-
-A farmer-facing Android app integrating a **CNN** for crop-disease detection, **XGBoost** crop recommendation (2,200 records, 22 crops), and a soil-analysis module. Firebase for real-time sync, and color-coded, farmer-readable visualizations that make every AI output actionable for low-literacy, non-technical users.
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karunprem45&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
+</div>
 
 ---
 
-### `// experience`
+<!-- ===================== TOOLS ===================== -->
+## 🧰 Tools
 
-```
-Gnani.ai                                      Software Engineer Intern   (Jul 2024)
-├── Improved training-data audio quality for AI speech pipelines
-│   └── noise reduction + normalization
-└── Supported live deployment of AI speech-processing workflows for clients
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,figma,postman&perline=6" alt="tools" />
+</div>
 
-Infilabs                                      Software Engineer Intern   (Aug 2023)
-├── Designed optimized data structures for storage & retrieval (AI modules)
-├── Built and tested data modules → clean, well-structured datasets
-└── Contributed to debugging, code reviews, and deployment with the dev team
-```
+`Git` · `GitHub Actions` · `VS Code` · `Jupyter / Colab` · `Streamlit` · `Tableau`
 
 ---
 
-### `// stack`
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+## 📈 Contribution Graph
 
-```python
-stack = {
-  "ml_ai"    : ["Python", "scikit-learn", "XGBoost", "TensorFlow/Keras", "SHAP", "CNNs", "LSTM"],
-  "data_mlops": ["pandas", "NumPy", "SQLAlchemy", "GitHub Actions (CI/CD)", "REST APIs", "Streamlit", "Firebase"],
-  "languages" : ["Python", "SQL", "R"],
-  "viz"       : ["Matplotlib", "Seaborn", "Plotly", "Tableau"],
-}
-```
-
----
-
-### `// education`
-
-```
-Northeastern University — Boston, MA
-└── M.S. Data Science                                (Jan 2026 – May 2028)
-    └── Coursework : Machine Learning, MLOps, Essentials of Data Science
-
-Anna University — India
-└── B.Tech, Artificial Intelligence & Data Science   (First Class)
-```
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karunprem45&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
+</div>
 
 ---
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=karunprem45&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karunprem45&layout=compact&theme=tokyonight&hide_border=true)
-
-<br/>
-
-`STATUS: OPEN_TO_WORK` — TA / RA · Data Science / ML Co-op
-
-[![Connect](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karuniya-premnath)
-
+  <b><code>STATUS: OPEN_TO_WORK</code></b> — TA / RA · Data Science / ML Co-op
+  <br/><br/>
+  <i>“I build ML that ships — not just notebooks.”</i>
 </div>
